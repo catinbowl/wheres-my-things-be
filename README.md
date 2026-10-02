@@ -6,4 +6,4 @@
 
 tcmalloc dynamicly links to system libtcmalloc. Install with Homebrew:
 
-`brew install gperftools'
+`brew install gperftools`
